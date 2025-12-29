@@ -16,15 +16,6 @@ LXML
 
 CSV Module
 
-📦 Installation
-
-Clone this repository:
-
-git clone https://github.com/yourusername/web-scraping-project.git cd web-scraping-project
-
-Install the required libraries:
-
-pip install -r requirements.txt
 
 💡 Usage
 
@@ -46,7 +37,7 @@ View the output file:
 
 data.csv
 
-📁 Project Structure web-scraping-project/ │ ├── scarping.ipynb # Main Jupyter Notebook with scraping logic ├── requirements.txt # Required Python dependencies ├── data.csv # (Optional) Output file with scraped data └── README.md # Project documentation
+
 
 🧠 Concepts Covered
 
@@ -58,28 +49,7 @@ Navigating the DOM tree
 
 Extracting text, attributes, and links
 
-Writing data into CSV format
 
-📧 [your.email@example.com ] 🌐 GitHub: github.com/yourusername
-
-About
-This project demonstrates how to scrape data from websites using Python. It utilizes the requests library to fetch webpage content and BeautifulSoup (bs4) for parsing HTML data. The extracted information is processed and saved into a structured format (such as CSV). The project is ideal for learning or automating data collection from web pages.
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
 Jupyter Notebook
 100.0%
 Footer
